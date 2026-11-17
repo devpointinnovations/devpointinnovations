@@ -8,11 +8,30 @@
 
 </div>
 
-- 👋 Olá! Aqui é a **DevPoint Innovations**
-- 💡 Gostamos de transformar problemas reais em produto
-- ☕ Backend em **Java + Spring Boot**, porque gostamos de coisa sólida
-- 📱 Apps em **Expo / React Native** e painéis em **Angular**
-- ☁️ Tudo rodando na nuvem do **Google Cloud**
+## 👋 Bora conversar sobre a DevPoint?
+
+Antes de falar de empresa, deixa eu falar de onde eu vim: sou dev PJ. Já fui o cara que recebe a tarefa mal explicada, o "é só um botãozinho" e o prazo chutado. A DevPoint nasceu daí e hoje está virando empresa de verdade. Está no começo, e a gente prefere dizer isso a fingir que é gigante.
+
+### 💚 No que a gente acredita
+
+- 🧑‍💻 **Dev não é custo.** Quem escreve, revisa e põe em produção é quem faz a empresa andar.
+- ⚡ **Ágil é o que acontece na prática.** Tarefa bem explicada, critério de pronto claro e revisão de código antes do merge.
+- 🧱 **Processo travado derruba tecnologia boa.** Stack de ponta não salva processo que não deixa nada andar.
+- ✅ **Quem escreve o código responde por ele.** Com IA escrevendo rápido, a gente quer ser quem define o pronto e responde pelo que vai pra produção.
+- 🔍 **Transparência, inclusive nos números pequenos.** A gente constrói em público, com os números reais.
+- 🧩 **Sob medida só quando faz sentido.** Se um sistema pronto resolve, a gente fala. Se não resolve, a gente constrói.
+
+### 🛠️ O que a gente resolve
+
+Planilha, WhatsApp, retrabalho e o dono que virou o sistema.
+
+### 💬 Sobre o que a gente fala
+
+Carreira em TI, IA no dia a dia, PJ x CLT, DevOps e segurança.
+
+### 🧰 Algumas ferramentas que usamos hoje
+
+A stack segue o problema, não o contrário: temos projetos em outras linguagens e estamos sempre experimentando novas.
 
 <div align="center">
 <br>
@@ -38,6 +57,10 @@
 
 ##
 
+### 📣 Chama a gente
+
+Se você é dev, queremos ouvir o que trava o seu dia. Se conhece uma empresa presa em planilha, chama no direct: temos uma conversa gratuita de 30 minutos para entender o processo, sem compromisso.
+
 <div align="center">
 
 <a href="https://www.devpointinnovations.com/" target="_blank"><img src="https://img.shields.io/badge/Site-0B6B4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
@@ -45,6 +68,6 @@
 <a href="https://www.instagram.com/devpointinnovations/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:devpointinnovations@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 
-<sub>Feito com ☕ em Java (e um pouco de TypeScript).</sub>
+<sub>Feito com ☕ por quem é dev.</sub>
 
 </div>
