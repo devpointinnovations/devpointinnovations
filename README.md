@@ -55,9 +55,9 @@ Nosso projeto principal, dividido em quatro repositórios:
 
 <div align="center">
 
-<a href="https://devpointinnovations.com" target="_blank"><img src="https://img.shields.io/badge/Site-0B6B4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
+<a href="https://www.devpointinnovations.com/" target="_blank"><img src="https://img.shields.io/badge/Site-0B6B4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
 <a href="https://www.linkedin.com/company/devpointinnovations" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:CONTATO@DOMINIO" target="_blank"><img src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://www.instagram.com/devpointinnovations/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/GabrielVogado" target="_blank"><img src="https://img.shields.io/badge/Gabriel%20Vogado-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GabrielVogado no GitHub"></a>
 
 <sub>Feito com ☕ em Java (e um pouco de TypeScript).</sub>
