@@ -9,11 +9,10 @@
 </div>
 
 - 👋 Olá! Aqui é a **DevPoint Innovations**
+- 💡 Gostamos de transformar problemas reais em produto
 - ☕ Backend em **Java + Spring Boot**, porque gostamos de coisa sólida
-- 📱 Apps com **Expo / React Native** e painéis em **Angular**
-- ☁️ Rodando em **Google Cloud Run**
-- 🧪 Qualidade no fluxo: PR revisado, testes, **SonarCloud** e **CodeQL** em todo push
-- 🌱 Projeto atual: **Pulseira Verde**, lançamento público previsto para **março de 2027**
+- 📱 Apps em **Expo / React Native** e painéis em **Angular**
+- ☁️ Tudo rodando na nuvem do **Google Cloud**
 
 <div align="center">
 <br>
@@ -31,25 +30,11 @@
 
 ##
 
-### 🌱 Pulseira Verde
+### 🌱 No que estamos trabalhando
 
-Nosso projeto principal, dividido em quatro repositórios:
+**Pulseira Verde**, nosso projeto atual: app mobile, API e painel administrativo, com lançamento público previsto para **março de 2027**.
 
-| Repositório | O que tem lá |
-|---|---|
-| [`pulseira-verde-mobile`](https://github.com/devpointinnovations/pulseira-verde-mobile) | App mobile em Expo + React Native |
-| [`pulseira-verde-backend`](https://github.com/devpointinnovations/pulseira-verde-backend) | API em Java + Spring Boot, publicada no Cloud Run |
-| [`pulseira-verde-admin`](https://github.com/devpointinnovations/pulseira-verde-admin) | Painel administrativo em Angular |
-| [`pulseira-verde-docs`](https://github.com/devpointinnovations/pulseira-verde-docs) | Documentação, git-flow, homologações e site |
-
-🔗 Site do projeto: [saudemonitor.dev](https://saudemonitor.dev)
-
-### 🛠️ Como a gente trabalha
-
-- Git-flow de verdade: `feature/`, `bugfix/`, `hotfix/`, `doc/`, tudo via PR para a `develop`
-- `master` só recebe release homologada
-- Commits assinados e checks obrigatórios nas branches principais
-- Documentação versionada junto com o código
+👉 Conheça mais em [saudemonitor.dev](https://saudemonitor.dev) ou dê uma olhada no código: [app](https://github.com/devpointinnovations/pulseira-verde-mobile) · [API](https://github.com/devpointinnovations/pulseira-verde-backend) · [painel](https://github.com/devpointinnovations/pulseira-verde-admin)
 
 ##
 
@@ -59,7 +44,6 @@ Nosso projeto principal, dividido em quatro repositórios:
 <a href="https://www.linkedin.com/company/devpointinnovations" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/devpointinnovations/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:devpointinnovations@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-<a href="https://github.com/GabrielVogado" target="_blank"><img src="https://img.shields.io/badge/Gabriel%20Vogado-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GabrielVogado no GitHub"></a>
 
 <sub>Feito com ☕ em Java (e um pouco de TypeScript).</sub>
 
