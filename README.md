@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- BANNER (opcional): troque pela arte da DevPoint quando existir, ex. <img src="./assets/banner.png" alt="DevPoint Innovations" width="100%"> -->
-
-# DevPoint Innovations
+<img src="./assets/logo-devpoint.jpg" alt="Logo DevPoint Innovations" width="260">
 
 **Software brasileiro, feito por devs, para resolver problema de verdade.** 🇧🇷
 
