@@ -1,6 +1,8 @@
+<img src="./assets/banner-devpoint.png" alt="Quem faz TI no centro da inovação. Time valorizado entrega mais e melhor." width="100%">
+
 <div align="center">
 
-<img src="./assets/logo-devpoint.jpg" alt="Logo DevPoint Innovations" width="260">
+<img src="./assets/logo-devpoint.jpg" alt="Logo DevPoint Innovations" width="200">
 
 **Software brasileiro, feito por devs, para resolver problema de verdade.** 🇧🇷
 
